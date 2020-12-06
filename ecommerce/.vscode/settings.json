@@ -1,0 +1,11 @@
+{
+    
+    "liveshare.anonymousGuestApproval": "accept",
+    "liveshare.allowInvites": "all",
+    "liveshare.allowGuestTaskControl": true,
+    "liveshare.keepAliveInterval": 999999999,
+    "liveshare.connectionMode": "relay",
+
+}
+
+
